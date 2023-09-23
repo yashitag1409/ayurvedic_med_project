@@ -1,0 +1,15 @@
+This project is created by using 
+Frontend: JSP, CSS, JS
+Backend: Java, JDBC 
+Database: MySQL
+
+Project name : BRAHMAVEDA
+This project is created for student and practitionary of ayurvedic medicines.
+
+In this project I have covered signin and signup pages along with landing page of project name Brahmaveda.
+
+For registering , user need to enter their name , email address, password, contact detail, enrollement/registration Id number , Institute Name.
+
+Student/Practitionery will get an OTP in their registered email id to verify itself and then only user will be verified.
+
+Landing page : 
