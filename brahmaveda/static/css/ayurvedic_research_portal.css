@@ -1,0 +1,70 @@
+.arp {
+  height: 75vh;
+  overflow: hidden;
+}
+
+.arp-heading {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+#ayur {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bolder;
+}
+#rp {
+  font-size: 30px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #ff9237;
+}
+.arp-body-one {
+  /* margin-top: 20px !important; */
+}
+.ayur-name {
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.name {
+  line-height: 3em;
+}
+.form-check-input {
+  margin-top: 1.8rem !important;
+  margin-left: 70px;
+  /* color: red; */
+}
+.form-check-input:checked {
+  border-color: black !important;
+  border: 5px solid black;
+  background-color: rgb(57, 55, 55) !important;
+}
+
+#arp-btn-one {
+  background-color: #ff9237;
+  color: aliceblue;
+  border: 15px solid #ff9237;
+  width: 60%;
+  text-align: center;
+  margin-left: 55px;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 5px;
+  height: fit-content;
+}
+
+#bcarp {
+  border: none !important;
+}
+
+.goBack {
+  margin-left: 15px !important;
+}
+.arp-two-table {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+}
